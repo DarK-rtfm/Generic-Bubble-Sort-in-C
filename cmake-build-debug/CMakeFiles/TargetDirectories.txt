@@ -1,0 +1,3 @@
+/home/bidzo/CLionProjects/Bubble Sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bidzo/CLionProjects/Bubble Sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bidzo/CLionProjects/Bubble Sort/cmake-build-debug/CMakeFiles/untitled.dir
