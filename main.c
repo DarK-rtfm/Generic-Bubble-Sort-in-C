@@ -6,7 +6,6 @@
 void sort(void * arr, size_t data_size, size_t elem_size, void (*compare)(void * x, void * y)){
     size_t length = data_size/elem_size;
     for(int i = 0; i<length; i++){
-        //printf("%d %d\n", arr + elem_size*i, arr + elem_size * (i+1));
         for(int j = 0; j<length-1; j++){
             compare(arr + elem_size*j, arr + elem_size * (j+1));
         }
@@ -29,11 +28,9 @@ void compare_int(void * x, void * y){
 void compare_char(void * x, void * y){
     char * p1 = (char*)x;
     char * p2 = (char*)y;
-    char ** value1 = (char**)x;
-    char ** value2 = (char**)y;
     char temp;
-    //ASC SORT
-   if(**value1 > **value2){
+   //ASC SORT
+   if(*p1 > *p2){
         temp = *p1;
         *p1= *p2 ;
         *p2= temp;
@@ -51,11 +48,11 @@ int main() {
     }
 
 
-    // char* c[] = {"3", "2", "1", "6", "5"};
-     char* c[] = {"c","j","b","a", "d", "f"};
-    sort(c, sizeof(c), sizeof(char*), compare_char);
-    for(int i = 0; i<sizeof(c)/sizeof(char*); i++){
-        printf("%c", *c[i]);
+    // char c[] = {'3', '7', '5', '3'};
+    char c[] = {'c', 'd', 'b','f','g','a'};
+    sort(c, sizeof(c), sizeof(char), compare_char);
+    for(int i = 0; i<sizeof(c)/sizeof(char); i++){
+        printf("%c", c[i]);
     }
 
 }

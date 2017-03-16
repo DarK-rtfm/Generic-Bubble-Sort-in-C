@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/bidzo/CLionProjects/Bubble Sort/main.c" "/home/bidzo/CLionProjects/Bubble Sort/cmake-build-debug/CMakeFiles/untitled.dir/main.c.o"
+  "/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/main.c" "/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/untitled.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
