@@ -1,4 +1,4 @@
-The system is: Linux - 4.4.0-66-generic - x86_64
+The system is: Linux - 4.4.0-64-generic - x86_64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
 Compiler: /usr/bin/cc 
 Build flags: 
@@ -10,7 +10,7 @@ The output was:
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
 
-The C compiler identification is GNU, found in "/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out"
+The C compiler identification is GNU, found in "/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdC/a.out"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: /usr/bin/c++ 
@@ -23,33 +23,33 @@ The output was:
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
 
-The CXX compiler identification is GNU, found in "/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out"
+The CXX compiler identification is GNU, found in "/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/3.6.3/CompilerIdCXX/a.out"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_06f15/fast"
-/usr/bin/make -f CMakeFiles/cmTC_06f15.dir/build.make CMakeFiles/cmTC_06f15.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_06f15.dir/testCCompiler.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_06f15.dir/testCCompiler.c.o   -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_06f15
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_06f15.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_06f15.dir/testCCompiler.c.o  -o cmTC_06f15 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_2825a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2825a.dir/build.make CMakeFiles/cmTC_2825a.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2825a.dir/testCCompiler.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_2825a.dir/testCCompiler.c.o   -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_2825a
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2825a.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_2825a.dir/testCCompiler.c.o  -o cmTC_2825a 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_4860b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_4860b.dir/build.make CMakeFiles/cmTC_4860b.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o   -c /home/bidzina/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c
-Linking C executable cmTC_4860b
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4860b.dir/link.txt --verbose=1
-/usr/bin/cc      -v CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o  -o cmTC_4860b  
+Run Build Command:"/usr/bin/make" "cmTC_31213/fast"
+/usr/bin/make -f CMakeFiles/cmTC_31213.dir/build.make CMakeFiles/cmTC_31213.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o   -c /home/bidzo/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c
+Linking C executable cmTC_31213
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_31213.dir/link.txt --verbose=1
+/usr/bin/cc      -v CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o  -o cmTC_31213  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/cc
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -59,23 +59,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4860b' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccBph38t.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_4860b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_31213' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJGMLDg.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_31213 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_4860b/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_4860b.dir/build.make CMakeFiles/cmTC_4860b.dir/build]
-  ignore line: [make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o   -c /home/bidzina/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c]
-  ignore line: [Linking C executable cmTC_4860b]
-  ignore line: [/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_4860b.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o  -o cmTC_4860b  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_31213/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_31213.dir/build.make CMakeFiles/cmTC_31213.dir/build]
+  ignore line: [make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc     -o CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o   -c /home/bidzo/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCCompilerABI.c]
+  ignore line: [Linking C executable cmTC_31213]
+  ignore line: [/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_31213.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc      -v CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o  -o cmTC_31213  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -85,13 +85,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_4860b' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccBph38t.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_4860b /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_31213' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJGMLDg.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_31213 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccBph38t.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccJGMLDg.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -108,7 +108,7 @@ Parsed C implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_4860b] ==> ignore
+    arg [cmTC_31213] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -120,7 +120,7 @@ Parsed C implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_4860b.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_31213.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -152,17 +152,17 @@ Parsed C implicit link information from above output:
 
 
 Detecting C [-std=c11] compiler features compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_c46e9/fast"
-/usr/bin/make -f CMakeFiles/cmTC_c46e9.dir/build.make CMakeFiles/cmTC_c46e9.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_c46e9.dir/feature_tests.c.o
-/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_c46e9.dir/feature_tests.c.o   -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_c46e9
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c46e9.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_c46e9.dir/feature_tests.c.o  -o cmTC_c46e9 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_56e90/fast"
+/usr/bin/make -f CMakeFiles/cmTC_56e90.dir/build.make CMakeFiles/cmTC_56e90.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_56e90.dir/feature_tests.c.o
+/usr/bin/cc    -std=c11 -o CMakeFiles/cmTC_56e90.dir/feature_tests.c.o   -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_56e90
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_56e90.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_56e90.dir/feature_tests.c.o  -o cmTC_56e90 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -172,17 +172,17 @@ make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake
 
 
 Detecting C [-std=c99] compiler features compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_afa8b/fast"
-/usr/bin/make -f CMakeFiles/cmTC_afa8b.dir/build.make CMakeFiles/cmTC_afa8b.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_afa8b.dir/feature_tests.c.o
-/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_afa8b.dir/feature_tests.c.o   -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_afa8b
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_afa8b.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_afa8b.dir/feature_tests.c.o  -o cmTC_afa8b 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_12109/fast"
+/usr/bin/make -f CMakeFiles/cmTC_12109.dir/build.make CMakeFiles/cmTC_12109.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_12109.dir/feature_tests.c.o
+/usr/bin/cc    -std=c99 -o CMakeFiles/cmTC_12109.dir/feature_tests.c.o   -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_12109
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12109.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_12109.dir/feature_tests.c.o  -o cmTC_12109 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -192,17 +192,17 @@ make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake
 
 
 Detecting C [-std=c90] compiler features compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d609f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d609f.dir/build.make CMakeFiles/cmTC_d609f.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_d609f.dir/feature_tests.c.o
-/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_d609f.dir/feature_tests.c.o   -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.c
-Linking C executable cmTC_d609f
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d609f.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_d609f.dir/feature_tests.c.o  -o cmTC_d609f 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_55b4d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_55b4d.dir/build.make CMakeFiles/cmTC_55b4d.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_55b4d.dir/feature_tests.c.o
+/usr/bin/cc    -std=c90 -o CMakeFiles/cmTC_55b4d.dir/feature_tests.c.o   -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.c
+Linking C executable cmTC_55b4d
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_55b4d.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_55b4d.dir/feature_tests.c.o  -o cmTC_55b4d 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: C_FEATURE:1c_function_prototypes
@@ -210,30 +210,30 @@ make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake
     Feature record: C_FEATURE:0c_static_assert
     Feature record: C_FEATURE:0c_variadic_macros
 Determining if the CXX compiler works passed with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_d8c4e/fast"
-/usr/bin/make -f CMakeFiles/cmTC_d8c4e.dir/build.make CMakeFiles/cmTC_d8c4e.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d8c4e.dir/testCXXCompiler.cxx.o
-/usr/bin/c++      -o CMakeFiles/cmTC_d8c4e.dir/testCXXCompiler.cxx.o -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_d8c4e
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d8c4e.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_d8c4e.dir/testCXXCompiler.cxx.o  -o cmTC_d8c4e 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_a8379/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a8379.dir/build.make CMakeFiles/cmTC_a8379.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a8379.dir/testCXXCompiler.cxx.o
+/usr/bin/c++      -o CMakeFiles/cmTC_a8379.dir/testCXXCompiler.cxx.o -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_a8379
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8379.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_a8379.dir/testCXXCompiler.cxx.o  -o cmTC_a8379 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_52fa5/fast"
-/usr/bin/make -f CMakeFiles/cmTC_52fa5.dir/build.make CMakeFiles/cmTC_52fa5.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o
-/usr/bin/c++      -o CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o -c /home/bidzina/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_52fa5
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_52fa5.dir/link.txt --verbose=1
-/usr/bin/c++       -v CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_52fa5  
+Run Build Command:"/usr/bin/make" "cmTC_f526f/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f526f.dir/build.make CMakeFiles/cmTC_f526f.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++      -o CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o -c /home/bidzo/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_f526f
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f526f.dir/link.txt --verbose=1
+/usr/bin/c++       -v CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_f526f  
 Using built-in specs.
 COLLECT_GCC=/usr/bin/c++
 COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper
@@ -243,23 +243,23 @@ Thread model: posix
 gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) 
 COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/
 LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_52fa5' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccI47mn0.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_52fa5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f526f' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccIxa5sM.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_f526f /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
 Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|([^/\]+-)?ld|collect2)[^/\]*( |$)]
-  ignore line: [Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: [Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_52fa5/fast"]
-  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_52fa5.dir/build.make CMakeFiles/cmTC_52fa5.dir/build]
-  ignore line: [make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o -c /home/bidzina/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp]
-  ignore line: [Linking CXX executable cmTC_52fa5]
-  ignore line: [/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_52fa5.dir/link.txt --verbose=1]
-  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_52fa5  ]
+  ignore line: [Run Build Command:"/usr/bin/make" "cmTC_f526f/fast"]
+  ignore line: [/usr/bin/make -f CMakeFiles/cmTC_f526f.dir/build.make CMakeFiles/cmTC_f526f.dir/build]
+  ignore line: [make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++      -o CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o -c /home/bidzo/Downloads/clion-2016.3.3/bin/cmake/share/cmake-3.6/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_f526f]
+  ignore line: [/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f526f.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++       -v CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_f526f  ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper]
@@ -269,13 +269,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ]
   ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/]
   ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/5/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/5/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_52fa5' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccI47mn0.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_52fa5 /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_f526f' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/5/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper -plugin-opt=-fresolution=/tmp/ccIxa5sM.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/ --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -z relro -o cmTC_f526f /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/5/crtend.o /usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crtn.o]
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/5/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/ccI47mn0.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccIxa5sM.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -292,7 +292,7 @@ Parsed CXX implicit link information from above output:
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-zrelro] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_52fa5] ==> ignore
+    arg [cmTC_f526f] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crt1.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu/crti.o] ==> ignore
     arg [/usr/lib/gcc/x86_64-linux-gnu/5/crtbegin.o] ==> ignore
@@ -304,7 +304,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
     arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
     arg [-L/usr/lib/gcc/x86_64-linux-gnu/5/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/5/../../..]
-    arg [CMakeFiles/cmTC_52fa5.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_f526f.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -334,17 +334,17 @@ Parsed CXX implicit link information from above output:
 
 
 Detecting CXX [-std=c++14] compiler features compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_1357c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_1357c.dir/build.make CMakeFiles/cmTC_1357c.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_1357c.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_1357c.dir/feature_tests.cxx.o -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_1357c
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1357c.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_1357c.dir/feature_tests.cxx.o  -o cmTC_1357c 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_b3bef/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b3bef.dir/build.make CMakeFiles/cmTC_b3bef.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b3bef.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++14 -o CMakeFiles/cmTC_b3bef.dir/feature_tests.cxx.o -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_b3bef
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b3bef.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_b3bef.dir/feature_tests.cxx.o  -o cmTC_b3bef 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:1cxx_aggregate_default_initializers
@@ -407,17 +407,17 @@ make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake
 
 
 Detecting CXX [-std=c++11] compiler features compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_52d3c/fast"
-/usr/bin/make -f CMakeFiles/cmTC_52d3c.dir/build.make CMakeFiles/cmTC_52d3c.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_52d3c.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_52d3c.dir/feature_tests.cxx.o -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_52d3c
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_52d3c.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_52d3c.dir/feature_tests.cxx.o  -o cmTC_52d3c 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_79f97/fast"
+/usr/bin/make -f CMakeFiles/cmTC_79f97.dir/build.make CMakeFiles/cmTC_79f97.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_79f97.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++11 -o CMakeFiles/cmTC_79f97.dir/feature_tests.cxx.o -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_79f97
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_79f97.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_79f97.dir/feature_tests.cxx.o  -o cmTC_79f97 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
@@ -480,17 +480,17 @@ make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake
 
 
 Detecting CXX [-std=c++98] compiler features compiled with the following output:
-Change Dir: /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_7d2be/fast"
-/usr/bin/make -f CMakeFiles/cmTC_7d2be.dir/build.make CMakeFiles/cmTC_7d2be.dir/build
-make[1]: Entering directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_7d2be.dir/feature_tests.cxx.o
-/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_7d2be.dir/feature_tests.cxx.o -c /home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.cxx
-Linking CXX executable cmTC_7d2be
-/home/bidzina/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7d2be.dir/link.txt --verbose=1
-/usr/bin/c++        CMakeFiles/cmTC_7d2be.dir/feature_tests.cxx.o  -o cmTC_7d2be 
-make[1]: Leaving directory '/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Run Build Command:"/usr/bin/make" "cmTC_61593/fast"
+/usr/bin/make -f CMakeFiles/cmTC_61593.dir/build.make CMakeFiles/cmTC_61593.dir/build
+make[1]: Entering directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_61593.dir/feature_tests.cxx.o
+/usr/bin/c++     -std=c++98 -o CMakeFiles/cmTC_61593.dir/feature_tests.cxx.o -c /home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_61593
+/home/bidzo/Downloads/clion-2016.3.3/bin/cmake/bin/cmake -E cmake_link_script CMakeFiles/cmTC_61593.dir/link.txt --verbose=1
+/usr/bin/c++        CMakeFiles/cmTC_61593.dir/feature_tests.cxx.o  -o cmTC_61593 
+make[1]: Leaving directory '/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/cmake-build-debug/CMakeFiles/CMakeTmp'
 
 
     Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers

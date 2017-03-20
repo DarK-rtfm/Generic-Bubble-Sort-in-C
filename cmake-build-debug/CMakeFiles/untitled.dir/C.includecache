@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/bidzina/Desktop/Generic-Bubble-Sort-in-C/main.c
+/home/bidzo/Desktop/Generic-Bubble-Sort-in-C/main.c
 stdio.h
+-
+string.h
 -
 stdlib.h
 -
