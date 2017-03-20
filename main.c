@@ -4,7 +4,7 @@
 
 
 //Bubble Sort
-void sort(void * arr, size_t data_size, size_t elem_size, int (*compare)(void * x, void * y)){
+void sort(void * arr, size_t data_size, size_t elem_size, int(*compare)(void * x, void * y)){
     size_t length = data_size/elem_size;
     for(int i = 0; i<length; i++){
         for(int j = 0; j<length-1; j++){
@@ -22,13 +22,13 @@ void sort(void * arr, size_t data_size, size_t elem_size, int (*compare)(void * 
 int compare_int(void * x, void * y){
     int * value1 = (int*)x;
     int * value2 = (int*)y;
-    return *value1 - *value2;
+    return *value1 > *value2 ? 1 : -1;
 }
 
-char compare_char(void * x, void * y){
+int compare_char(void * x, void * y){
     char * p1 = (char*)x;
     char * p2 = (char*)y;
-    return *p1 - *p2;
+    return *p1 > *p2 ? 1 : -1;
 }
 
 
